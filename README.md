@@ -51,3 +51,4 @@ El chequeo de DNI duplicado es informativo; la restricción UNIQUE de MySQL
 es la garantía definitiva ante solicitudes concurrentes.
 No se muestran detalles SQL ni contraseñas al usuario.
 # LAB9_IWEB_20240904
+# LAB9_IWEB_20240904
